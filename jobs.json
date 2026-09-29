@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-28T09:25:32.683649Z",
-  "count": 38,
+  "updated": "2026-09-29T09:31:06.152893Z",
+  "count": 39,
   "jobs": [
+    {
+      "title": "Data Science and Analytics-Intern",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/data-science-and-analytics-intern-diageo",
+      "source": "MyJobMag",
+      "description": "Data Science and Analytics-Intern"
+    },
+    {
+      "title": "Supply Chain/Operations Management-Intern",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/supply-chain-operations-management-intern-diageo-1",
+      "source": "MyJobMag",
+      "description": "Supply Chain/Operations Management-Intern"
+    },
+    {
+      "title": "Engineering (Chemical, Biochemical, Microbiology, Electrical, Industrial, Mechanical, Civil, or Packaging)-Intern",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/engineering-chemical-biochemical-microbiology-electrical-industrial-mechanical-civil-or-packaging-intern-diageo",
+      "source": "MyJobMag",
+      "description": "Engineering (Chemical, Biochemical, Microbiology, Electrical, Industrial, Mechanical, Civil, or Packaging)-Intern"
+    },
+    {
+      "title": "Supply Chain Management-Intern",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/supply-chain-management-intern-diageo",
+      "source": "MyJobMag",
+      "description": "Supply Chain Management-Intern"
+    },
+    {
+      "title": "Quality Assurance-Intern",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/quality-assurance-intern-diageo",
+      "source": "MyJobMag",
+      "description": "Quality Assurance-Intern"
+    },
+    {
+      "title": "Sacco Operations Manager",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/sacco-operations-manager-co-operative-bank-of-kenya",
+      "source": "MyJobMag",
+      "description": "Sacco Operations ManagerSacco Internal Audit & Risk Manager"
+    },
+    {
+      "title": "Data Science and Analytics-Intern at Diageo",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/data-science-and-analytics-intern-diageo",
+      "source": "MyJobMag",
+      "description": "Data Science and Analytics-Intern at Diageo What You Can Expect: At EABL, interns are more than observers. We are looking for curious individuals who are ready to learn, ask questions, contribute ideas, and gain practical experience in a 28 September"
+    },
     {
       "title": "Junior Data Scientist at African Centre for Data Science & Analytics Ltd",
       "company": "",
@@ -43,36 +99,28 @@
       "description": "Data Engineering Advisor at Cigna The Position The International Health Data Engineering team sits at the heart of the International Health Delivery Services organization and is responsible for Cigna's Data Integration Hub, 23 September"
     },
     {
-      "title": "Data Engineering Lead Analyst at Cigna",
+      "title": "Sacco Operations Manager at Co-operative Bank of Kenya",
       "company": "",
       "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/data-engineering-lead-analyst-cigna-4",
+      "url": "https://www.myjobmag.co.ke/job/sacco-operations-manager-co-operative-bank-of-kenya",
       "source": "MyJobMag",
-      "description": "Data Engineering Lead Analyst at Cigna The Position The International Health Data Engineering team sits at the heart of the International Health Delivery Services organization and is responsible for Cigna's Data Integration Hub, 18 September"
+      "description": "Sacco Operations Manager at Co-operative Bank of Kenya Role Overview The Sacco Operations Manager will implement the SACCO\u2019s operational policies, optimise processes and ensure quality service delivery. Overall objective: To ensure seamless op 29 September"
     },
     {
-      "title": "Head, Data, Analytics and AI at Kenya Airways",
+      "title": "Commercial Operations Manager at Turaco",
       "company": "",
       "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/head-data-analytics-and-ai-kenya-airways",
+      "url": "https://www.myjobmag.co.ke/job/commercial-operations-manager-turaco",
       "source": "MyJobMag",
-      "description": "Head, Data, Analytics and AI at Kenya Airways Purpose The Head, Data, Analytics and Artificial Intelligence (Head-DNA) is responsible for spearheading Kenya Airways (KQ) transformative initiatives in Data, Analytics and Artificial Intelligence 17 September"
+      "description": "Commercial Operations Manager at Turaco Role Overview We are looking for a Commercial Operations Manager to help turn priorities into execution across Turaco's Commercial Operations organisation. You will work across different p 29 September"
     },
     {
-      "title": "Senior Data Scientist at Natural State",
+      "title": "Supply Chain/Operations Management-Intern at Diageo",
       "company": "",
       "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/senior-data-scientist-natural-state-1",
+      "url": "https://www.myjobmag.co.ke/job/supply-chain-operations-management-intern-diageo-1",
       "source": "MyJobMag",
-      "description": "Senior Data Scientist at Natural State About the role This Senior Data Scientist role is broad \u2013 we are looking for someone who can sit at the intersection of data engineering, ecological data scie 16 September"
-    },
-    {
-      "title": "ICT Data Scientist & AI Developer at Britam",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/ict-data-scientist-ai-developer-britam",
-      "source": "MyJobMag",
-      "description": "ICT Data Scientist & AI Developer at Britam Job Purpose: Lead execution of data engineering and AI initiatives across the organization; Responsible for delivery quality, technical guidance, and ensuring data solutions support business per 16 September"
+      "description": "Supply Chain/Operations Management-Intern at Diageo What You Can Expect: At EABL, interns are more than observers. We are looking for curious individuals who are ready to learn, ask questions, contribute ideas, and gain practical experience in a 28 September"
     },
     {
       "title": "Operations Manager at Richland Security Services",
@@ -83,28 +131,12 @@
       "description": "Operations Manager at Richland Security Services Minimum Requirements Bachelor's Degree in Military Science, Criminology, Security Management or a related field. Minimum 5 years' relevant experience in the private security sector. 24 September"
     },
     {
-      "title": "Onboarding Operations Manager at Zeno",
+      "title": "Senior Research Associate - Market Intelligence at International Maize and Wheat Improvement Center (CIMMYT)",
       "company": "",
       "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/onboarding-operations-manager-zeno-1",
+      "url": "https://www.myjobmag.co.ke/job/senior-research-associate-market-intelligence-international-maize-and-wheat-improvement-center-cimmyt",
       "source": "MyJobMag",
-      "description": "Onboarding Operations Manager at Zeno The Role The Onboarding Operations Manager will own the operational experience from loan approval/deposit payment through to bike delivery and customer onboarding. The role will focus on reducin 23 September"
-    },
-    {
-      "title": "Operations Officer at Express Shipping & Logistics (EA) Limited (ESL)",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/operations-officer-express-shipping-amp-logistics-ea-limited-esl-1",
-      "source": "MyJobMag",
-      "description": "Operations Officer at Express Shipping & Logistics (EA) Limited (ESL) We have an excellent and exciting opportunity for Operations Officer \u2013 Forwarding. We seek to give the opportunity to a candidate who ideally holds professional qualification in clearing & f 23 September"
-    },
-    {
-      "title": "Operations Manager | TP Kenya at Teleperformance Kenya",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/operations-manager-tp-kenya-teleperformance",
-      "source": "MyJobMag",
-      "description": "Operations Manager | TP Kenya at Teleperformance Kenya Description As an operations manager, you will be responsible for providing professional and focused customer service both internally and externally. Reporting directly to the SDM, the Operations M 23 September"
+      "description": "Senior Research Associate - Market Intelligence at International Maize and Wheat Improvement Center (CIMMYT) Key Responsabilities: Portfolio Research Coordination and Workflow Management Coordinate assigned market intelligence studies, typically managing day-to-day activities across 2\u20133 studie 28 September"
     },
     {
       "title": "Senior Deputy Director, Research, Quality Assurance And Consultancy at Kenya Institute of Curriculum Development (KICD)",
@@ -131,28 +163,12 @@
       "description": "Research Associate I \u2013 Molecular Biology (IITA) at International Livestock Research Institute (ILRI) About the position The position focuses on construct development and performing genomic DNA extractions, PCR, Southern blotting, qRT-PCR, sequencing, mutation detection, and maintaining bacterial c 18 September"
     },
     {
-      "title": "Laboratory Quality Assurance Technologist - Kisumu at Kenya Medical Research - KEMRI",
+      "title": "Senior Associate Early Years, Human Development at Genesis Analytics",
       "company": "",
       "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/laboratory-quality-assurance-technologist-kisumu-kemya-medical-research-kemri",
+      "url": "https://www.myjobmag.co.ke/job/senior-associate-early-years-human-development-genesis-analytics",
       "source": "MyJobMag",
-      "description": "Laboratory Quality Assurance Technologist - Kisumu at Kenya Medical Research - KEMRI Key Responsibilities: Develop, monitor and implement quality assurance compliance objectives and programs and report on progress/ level of compliance. Participate in the development, review, u 16 September"
-    },
-    {
-      "title": "Laboratory Quality Assurance Officer (QAO) at Outspan Hospital",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/laboratory-quality-assurance-officer-qao-outspan-hospital",
-      "source": "MyJobMag",
-      "description": "Laboratory Quality Assurance Officer (QAO) at Outspan Hospital Outspan Hospital started operations with the establishment of an Out Patient Department on August 7, 2001. A month later, the In Patient Department was opened with a capacity of 21 beds. 26 September"
-    },
-    {
-      "title": "Quality Control Team Member",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/quality-control-team-member-java-house-1",
-      "source": "MyJobMag",
-      "description": "Quality Control Team MemberIT Intern"
+      "description": "Senior Associate Early Years, Human Development at Genesis Analytics Our purpose is to unlock value in Africa. We use our analytical capabilities to improve decision-making and, through better decisions, to unlock substantial value for our clients and society. While we... 29 September"
     },
     {
       "title": "HEAD, QUALITY ASSURANCE & ACADEMIC EXCELLENCE \u2013 JOB REF: ANU/HCD/01/09/26",
@@ -171,18 +187,10 @@
       "description": ""
     },
     {
-      "title": "Quality Control Team Member at Java House",
+      "title": "Laboratory Quality Assurance Officer (QAO) at Outspan Hospital",
       "company": "",
       "location": "Kenya",
-      "url": "https://jobwebkenya.com/jobs/quality-control-team-member-java-house/",
-      "source": "JobWebKenya",
-      "description": ""
-    },
-    {
-      "title": "Junior Data Scientist at Pezesha",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://jobwebkenya.com/jobs/junior-data-scientist-pezesha/",
+      "url": "https://jobwebkenya.com/jobs/laboratory-quality-assurance-officer-qao-outspan-hospital/",
       "source": "JobWebKenya",
       "description": ""
     },
