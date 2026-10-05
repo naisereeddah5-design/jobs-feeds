@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-04T09:23:48.586535Z",
-  "count": 40,
+  "updated": "2026-10-05T10:04:17.520548Z",
+  "count": 39,
   "jobs": [
+    {
+      "title": "Entry-Level Catering & Operations Manager",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/entry-level-catering-operations-manager-nexus-staffing-solutions",
+      "source": "MyJobMag",
+      "description": "Entry-Level Catering & Operations ManagerSales Executive - Built-In Appliances & Kitchen SolutionsSales Manager - Retail & Online Sales of Home Appliances"
+    },
+    {
+      "title": "Data Engineer at Moringa School",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/data-engineer-moringa-school",
+      "source": "MyJobMag",
+      "description": "Data Engineer at Moringa School Working at Moringa We are an established and respected part of Kenya\u2019s tech and education ecosystem, yet we retain a fast-paced and dynamic culture that is reminiscent of a start-up. 05 October"
+    },
+    {
+      "title": "Associate Manager - Data Analytics at Majid Al Futtaim",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/associate-manager-data-analytics-majid-al-futtaim",
+      "source": "MyJobMag",
+      "description": "Associate Manager - Data Analytics at Majid Al Futtaim ROLE PROFILE Acquire data from primary or secondary data sources and maintain databases/data systems. Work with management to prioritise business and information needs. Compile and properly 05 October"
+    },
     {
       "title": "Drone Data Analyst at Victory Farms",
       "company": "",
@@ -43,20 +67,12 @@
       "description": "Junior Data Scientist at African Centre for Data Science & Analytics Ltd About the role As a Junior Data Scientist, you will work closely with senior data scientists and other cross-functional teams to analyze, interpret, and visualize data, contributing to the devel 26 September"
     },
     {
-      "title": "Data Engineer at Watu Credit Limited",
+      "title": "Entry-Level Catering & Operations Manager at Nexus Staffing Solutions",
       "company": "",
       "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/data-engineer-watu-credit-limited",
+      "url": "https://www.myjobmag.co.ke/job/entry-level-catering-operations-manager-nexus-staffing-solutions",
       "source": "MyJobMag",
-      "description": "Data Engineer at Watu Credit Limited Job Summary Our business is growing rapidly. In this context, we are looking for an enthusiastic, experienced, and highly technical Analytics Engineer to join our Data Analytics department. The 26 September"
-    },
-    {
-      "title": "Junior Data Scientist at Pezesha",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/junior-data-scientist-pezesha-2",
-      "source": "MyJobMag",
-      "description": "Junior Data Scientist at Pezesha Role Overview As a Junior Data Scientist, you will support the Data Team in turning raw data into actionable insights that inform credit, product, operations, and business decisions. You will wo 25 September"
+      "description": "Entry-Level Catering & Operations Manager at Nexus Staffing Solutions Nexus Staffing Solutions is recruiting on behalf of our client, a growing catering and food services business based in Kahawa Sukari, for an energetic and hands-on Entry-Level Catering & Operation 05 October"
     },
     {
       "title": "Operations Manager \u2013 Commodity Trading & Supply Chain at CDL Human Resource",
@@ -147,12 +163,12 @@
       "description": "Senior Deputy Director, Research, Quality Assurance And Consultancy at Kenya Institute of Curriculum Development (KICD) Duties and Responsibilities Provide strategic leadership and advisory support to Management on research, consultancy, innovation, quality assurance and knowledge management in alignment with the 22 September"
     },
     {
-      "title": "Research Associate I \u2013 Yam at International Livestock Research Institute (ILRI)",
+      "title": "TVET Trainers - Horticulture",
       "company": "",
       "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/research-associate-i-yam-international-livestock-research-institute-ilri",
+      "url": "https://www.myjobmag.co.ke/job/tvet-trainers-horticulture-the-east-african-university",
       "source": "MyJobMag",
-      "description": "Research Associate I \u2013 Yam at International Livestock Research Institute (ILRI) Key Responsibilities Prepare the required plant culture media for Yam transformation and tissue culture. Assist in maintaining and multiplication of Yam accessions. Assist in Agrobacterium-m 18 September"
+      "description": "TVET Trainers - Horticulture"
     },
     {
       "title": "Senior Relationship Manager, Industrials, Client Coverage",
@@ -169,30 +185,6 @@
       "url": "https://www.myjobmag.co.ke/job/farm-manager-kisii-university",
       "source": "MyJobMag",
       "description": "Farm Manager"
-    },
-    {
-      "title": "Quality Assurance Supervisor",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/quality-assurance-supervisor-kinangop-dairy-limited-1",
-      "source": "MyJobMag",
-      "description": "Quality Assurance Supervisor"
-    },
-    {
-      "title": "Quality Control Assistant",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/quality-control-assistant-kinangop-dairy-limited-1",
-      "source": "MyJobMag",
-      "description": "Quality Control Assistant"
-    },
-    {
-      "title": "Drone Data Analyst",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/drone-data-analyst-victory-farms",
-      "source": "MyJobMag",
-      "description": "Drone Data AnalystFlight Operations Assistant"
     },
     {
       "title": "DATA ANALYST",
