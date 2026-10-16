@@ -1,23 +1,7 @@
 {
-  "updated": "2026-10-15T08:01:52.570734Z",
-  "count": 33,
+  "updated": "2026-10-16T07:56:30.145182Z",
+  "count": 38,
   "jobs": [
-    {
-      "title": "Senior Supply Chain Management Officer at Mama Ngina University College (MNUC)",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/senior-supply-chain-management-officer-mama-ngina-university-college-mnuc",
-      "source": "MyJobMag",
-      "description": "Senior Supply Chain Management Officer at Mama Ngina University College (MNUC) We are a Student-Centered University College that produces innovative, scientifically grounded, ethical and holistic graduates. We offer market-driven degree programmes designed to enable students to develop hands-on skills necessary for job creation and employment at a competitive rate. MNUC has modern state-of-the-art"
-    },
-    {
-      "title": "Equity Operations Officer at Standard Bank Group",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/equity-operations-officer-standard-bank-group",
-      "source": "MyJobMag",
-      "description": "Equity Operations Officer at Standard Bank Group Standard Bank Group is the largest African banking group by assets offering a full range of banking and related financial services. \"Africa is our home, we drive her growth\u201d Our vision is to... 15 October"
-    },
     {
       "title": "Agronomist at Association of Women in Agriculture Kenya (AWAK)",
       "company": "",
@@ -65,6 +49,22 @@
       "url": "https://www.myjobmag.co.ke/job/data-engineer-standard-bank-group-4",
       "source": "MyJobMag",
       "description": "Data Engineer at Standard Bank Group Job Description To provide technical leadership in the design, delivery, and continuous evolution of enterprise data architecture, data platforms, and AI engineering capabilities. The role enables 07 October"
+    },
+    {
+      "title": "Chief Operations Officer at PCEA Kikuyu Hospital",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/chief-operations-officer-pcea-kikuyu-hospital",
+      "source": "MyJobMag",
+      "description": "Chief Operations Officer at PCEA Kikuyu Hospital Job Purpose The role provides operational leadership and ensures the effective delivery of high-quality, patient-centered healthcare services. Operating within the policy framework set by the Bo 16 October"
+    },
+    {
+      "title": "Equity Operations Officer at Standard Bank Group",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/equity-operations-officer-standard-bank-group",
+      "source": "MyJobMag",
+      "description": "Equity Operations Officer at Standard Bank Group Job Description The Officer, SBG Securities Operations is responsible for providing operational support across SBG Securities Limited (SBGS) operations in Kenya. The role ensures accurate processin 15 October"
     },
     {
       "title": "Operations Manager (Outdoor Advertising) at Peoplelink Consultants Ltd",
@@ -131,6 +131,38 @@
       "description": "Senior Research Associate \u2013 Market Intelligence at International Maize and Wheat Improvement Center (CIMMYT) Duties and responsibilities Portfolio Research Coordination and Workflow Management. Coordinate assigned market intelligence studies, typically managing day-to-day activities across 2\u20133 08 October"
     },
     {
+      "title": "Commercial Strategy Lead \u2013 High Value Crops",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/commercial-strategy-lead-high-value-crops-one-acre-fund",
+      "source": "MyJobMag",
+      "description": "Commercial Strategy Lead \u2013 High Value CropsTupande Research and Evaluations Lead"
+    },
+    {
+      "title": "International Supply Chain Senior Officer at Save the Children",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/international-supply-chain-senior-officer-save-the-children",
+      "source": "MyJobMag",
+      "description": "International Supply Chain Senior Officer at Save the Children The Save the Children Fund, commonly known as Save the Children, is an international non-governmental organization that promotes children's rights, provides relief and helps support children in develo... 15 October"
+    },
+    {
+      "title": "OPERATIONS MANAGER \u2013 WAREHOUSING & INLAND DELIVERY",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.brightermonday.co.ke/listings/operations-manager-warehousing-inland-delivery-0k2xqj",
+      "source": "BrighterMonday",
+      "description": ""
+    },
+    {
+      "title": "Business Development & Sales Manager (Supply Chain Financing)",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.brightermonday.co.ke/listings/business-development-sales-manager-supply-chain-financing-6q62g8",
+      "source": "BrighterMonday",
+      "description": ""
+    },
+    {
       "title": "DATA ANALYST",
       "company": "",
       "location": "Kenya",
@@ -139,10 +171,18 @@
       "description": ""
     },
     {
-      "title": "Data Analyst-Real Estate&Revenue at CDL Human Resource",
+      "title": "Agricultural R&D Manager (Fixed-Term) at One Acre Fund",
       "company": "",
       "location": "Kenya",
-      "url": "https://jobwebkenya.com/jobs/data-analyst-real-estaterevenue-cdl-human-resource/",
+      "url": "https://jobwebkenya.com/jobs/agricultural-rd-manager-fixed-term-one-acre-fund/",
+      "source": "JobWebKenya",
+      "description": ""
+    },
+    {
+      "title": "Senior Supply Chain Management Officer at Mama Ngina University College (MNUC)",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://jobwebkenya.com/jobs/senior-supply-chain-management-officer-mama-ngina-university-college-mnuc/",
       "source": "JobWebKenya",
       "description": ""
     },
