@@ -1,135 +1,7 @@
 {
-  "updated": "2026-10-20T08:14:22.164752Z",
-  "count": 34,
+  "updated": "2026-10-21T08:18:52.391670Z",
+  "count": 19,
   "jobs": [
-    {
-      "title": "Supply Chain Management Officer II",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/supply-chain-management-officer-ii-independent-policing-oversight-authority-ipoa-2",
-      "source": "MyJobMag",
-      "description": "Supply Chain Management Officer II"
-    },
-    {
-      "title": "Agronomist at Association of Women in Agriculture Kenya (AWAK)",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/agronomist-association-of-women-in-agriculture-kenya-awak",
-      "source": "MyJobMag",
-      "description": "Agronomist at Association of Women in Agriculture Kenya (AWAK) Purpose of the Assignment The Agronomist will provide regular and technical support to the TOTs and field team so that urban farming activities are productive, safe and sustainable. The role is des 06 October"
-    },
-    {
-      "title": "Forensic Data Analyst at Britam",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/forensic-data-analyst-britam",
-      "source": "MyJobMag",
-      "description": "Forensic Data Analyst at Britam Job Purpose: The Forensic Data Analyst collects, preserves and analyses complex transactional, operational and digital data to detect fraud, financial crime, regulatory non-compliance and contro 19 October"
-    },
-    {
-      "title": "Data Engineer at Accelera Digital Group",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/data-engineer-accelera-digital-group",
-      "source": "MyJobMag",
-      "description": "Data Engineer at Accelera Digital Group We are seeking an experienced, energetic, and highly motivated Data Engineer to join our dynamic organisation. This role forms part of our Data and AI practice within our Data Engineering Team. You wi 17 October"
-    },
-    {
-      "title": "Senior Data Engineer( DataBricks & Snowflake) at Andishi",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/senior-data-engineer-databricks-snowflake-andishi",
-      "source": "MyJobMag",
-      "description": "Senior Data Engineer( DataBricks & Snowflake) at Andishi We're looking for a skilled Data Engineer with strong Databricks administration experience to help build, manage, and improve cloud-based data solutions. The project involves maintaining Databr 14 October"
-    },
-    {
-      "title": "Director of Data Analytics at Educate!",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/director-of-data-analytics-educate-1",
-      "source": "MyJobMag",
-      "description": "Director of Data Analytics at Educate! Position Overview Educate! is becoming more data- and technology-driven, and the performance metrics function is central to that shift. This function tracks our monitoring metrics\u2014bo 14 October"
-    },
-    {
-      "title": "Data Analyst-Real Estate&Revenue at CDL Human Resource",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/data-analyst-real-estate-revenue-cdl-human-resouce",
-      "source": "MyJobMag",
-      "description": "Data Analyst-Real Estate&Revenue at CDL Human Resource Job Description The Data Analyst will analyze property, booking, revenue and operational data to provide actionable insights that improve occupancy, pricing, revenue and portfolio performance. 14 October"
-    },
-    {
-      "title": "Data Analyst at Bollard Consulting Limited",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/data-analyst-bollard-consulting-limited-1",
-      "source": "MyJobMag",
-      "description": "Data Analyst at Bollard Consulting Limited Scope of Work: Commercial data analysis, sales performance reporting, CRM data interpretation, stock analytics, and management intelligence for the Commercial Department. The Data Analyst is an 09 October"
-    },
-    {
-      "title": "Pensions Operations Officer at Britam",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/pensions-operations-officer-britam",
-      "source": "MyJobMag",
-      "description": "Pensions Operations Officer at Britam Job Purpose: Assist in processing and payment of pension claims and benefits. Approval of payments on assignment by the Team Leader. Key Responsibilities: Updating and reconcili 19 October"
-    },
-    {
-      "title": "Logistics Operations Manager at Flexi-Personnel",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/logistics-operations-manager-flexi-personnel",
-      "source": "MyJobMag",
-      "description": "Logistics Operations Manager at Flexi-Personnel JOB PURPOSE: This individual will lead and oversee end-to-end logistics and supply chain operations, ensuring operational efficiency, compliance, and continuous improvement across transportation 19 October"
-    },
-    {
-      "title": "Outsourcing Operations Manager at Recruten",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/outsourcing-operations-manager-recruten",
-      "source": "MyJobMag",
-      "description": "Outsourcing Operations Manager at Recruten We are hiring! NAIROBI KENYA We are an established people and workforce consultancy operating across several African markets, building our team in Kenya. We are recruiting for eleven full time, perman 19 October"
-    },
-    {
-      "title": "RTO Operations Manager at HCS Affiliates Group",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/rto-operations-manager-hcs-affiliates-group-1",
-      "source": "MyJobMag",
-      "description": "RTO Operations Manager at HCS Affiliates Group Our client, an on-demand Courier Service that delivers products ordered through their mobile app seeks to recruit RTO Operations Manager. Key Responsibilities Operational Performance & SLA/KPI 16 October"
-    },
-    {
-      "title": "Chief Operations Officer at PCEA Kikuyu Hospital",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/chief-operations-officer-pcea-kikuyu-hospital",
-      "source": "MyJobMag",
-      "description": "Chief Operations Officer at PCEA Kikuyu Hospital Job Purpose The role provides operational leadership and ensures the effective delivery of high-quality, patient-centered healthcare services. Operating within the policy framework set by the Bo 16 October"
-    },
-    {
-      "title": "Equity Operations Officer at Standard Bank Group",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/equity-operations-officer-standard-bank-group",
-      "source": "MyJobMag",
-      "description": "Equity Operations Officer at Standard Bank Group Job Description The Officer, SBG Securities Operations is responsible for providing operational support across SBG Securities Limited (SBGS) operations in Kenya. The role ensures accurate processin 15 October"
-    },
-    {
-      "title": "Research Operations Manager at Jacaranda Health",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/research-operations-manager-jacaranda-health",
-      "source": "MyJobMag",
-      "description": "Research Operations Manager at Jacaranda Health About the team The Research Design & Evaluation (RD&E) team is the heart of Jacaranda Health, providing evidence for product design, implementation, scale and expansion of Jacaranda&rsqu 08 October"
-    },
-    {
-      "title": "Senior Research Associate \u2013 Market Intelligence at International Maize and Wheat Improvement Center (CIMMYT)",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/senior-research-associate-market-intelligence-international-maize-and-wheat-improvement-center-cimmyt-1",
-      "source": "MyJobMag",
-      "description": "Senior Research Associate \u2013 Market Intelligence at International Maize and Wheat Improvement Center (CIMMYT) Duties and responsibilities Portfolio Research Coordination and Workflow Management. Coordinate assigned market intelligence studies, typically managing day-to-day activities across 2\u20133 08 October"
-    },
     {
       "title": "OPERATIONS MANAGER \u2013 WAREHOUSING & INLAND DELIVERY",
       "company": "",
@@ -152,6 +24,14 @@
       "location": "Kenya",
       "url": "https://www.brightermonday.co.ke/listings/data-analyst-9k85xj",
       "source": "BrighterMonday",
+      "description": ""
+    },
+    {
+      "title": "Data Engineer( DataBricks & Snowflake) at Andishi",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://jobwebkenya.com/jobs/data-engineer-databricks-snowflake-andishi/",
+      "source": "JobWebKenya",
       "description": ""
     },
     {
