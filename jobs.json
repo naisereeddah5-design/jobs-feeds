@@ -1,7 +1,143 @@
 {
-  "updated": "2026-10-25T08:09:09.262984Z",
-  "count": 18,
+  "updated": "2026-10-26T08:34:59.023250Z",
+  "count": 35,
   "jobs": [
+    {
+      "title": "Dynamics 365 Supply Chain",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/dynamics-365-supply-chain-software-dynamics",
+      "source": "MyJobMag",
+      "description": "Dynamics 365 Supply Chain"
+    },
+    {
+      "title": "Agronomist at Association of Women in Agriculture Kenya (AWAK)",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/agronomist-association-of-women-in-agriculture-kenya-awak",
+      "source": "MyJobMag",
+      "description": "Agronomist at Association of Women in Agriculture Kenya (AWAK) Purpose of the Assignment The Agronomist will provide regular and technical support to the TOTs and field team so that urban farming activities are productive, safe and sustainable. The role is des 06 October"
+    },
+    {
+      "title": "Data Analyst-Remote Sensing at Pula",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/data-analyst-remote-sensing-pula",
+      "source": "MyJobMag",
+      "description": "Data Analyst-Remote Sensing at Pula Position Overview As a Remote Sensing Data Analyst at Pula, you will turn satellite and geospatial data into reliable insights that support agricultural insurance products, yield estimation, and 23 October"
+    },
+    {
+      "title": "Data Engineer and Analytics Specialist at Victory Farms",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/data-engineer-and-analytics-specialist-victory-farms-1",
+      "source": "MyJobMag",
+      "description": "Data Engineer and Analytics Specialist at Victory Farms Are you a detail-oriented and analytical professional passionate about data engineering, automation, and delivering actionable business insights? Victory Farms Kenya is seeking a proactive and skil 22 October"
+    },
+    {
+      "title": "Data Engineer( DataBricks & Snowflake) at Andishi",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/data-engineer-databricks-snowflake-andishi",
+      "source": "MyJobMag",
+      "description": "Data Engineer( DataBricks & Snowflake) at Andishi We're looking for a skilled Data Engineer with strong Databricks administration experience to help build, manage, and improve cloud-based data solutions. The project involves maintaining Databr 20 October"
+    },
+    {
+      "title": "Forensic Data Analyst at Britam",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/forensic-data-analyst-britam",
+      "source": "MyJobMag",
+      "description": "Forensic Data Analyst at Britam Job Purpose: The Forensic Data Analyst collects, preserves and analyses complex transactional, operational and digital data to detect fraud, financial crime, regulatory non-compliance and contro 19 October"
+    },
+    {
+      "title": "Data Engineer at Accelera Digital Group",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/data-engineer-accelera-digital-group",
+      "source": "MyJobMag",
+      "description": "Data Engineer at Accelera Digital Group We are seeking an experienced, energetic, and highly motivated Data Engineer to join our dynamic organisation. This role forms part of our Data and AI practice within our Data Engineering Team. You wi 17 October"
+    },
+    {
+      "title": "Senior Data Engineer( DataBricks & Snowflake) at Andishi",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/senior-data-engineer-databricks-snowflake-andishi",
+      "source": "MyJobMag",
+      "description": "Senior Data Engineer( DataBricks & Snowflake) at Andishi We're looking for a skilled Data Engineer with strong Databricks administration experience to help build, manage, and improve cloud-based data solutions. The project involves maintaining Databr 14 October"
+    },
+    {
+      "title": "Director of Data Analytics at Educate!",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/director-of-data-analytics-educate-1",
+      "source": "MyJobMag",
+      "description": "Director of Data Analytics at Educate! Position Overview Educate! is becoming more data- and technology-driven, and the performance metrics function is central to that shift. This function tracks our monitoring metrics\u2014bo 14 October"
+    },
+    {
+      "title": "Data Analyst-Real Estate&Revenue at CDL Human Resource",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/data-analyst-real-estate-revenue-cdl-human-resouce",
+      "source": "MyJobMag",
+      "description": "Data Analyst-Real Estate&Revenue at CDL Human Resource Job Description The Data Analyst will analyze property, booking, revenue and operational data to provide actionable insights that improve occupancy, pricing, revenue and portfolio performance. 14 October"
+    },
+    {
+      "title": "Customer Operations Officer - Insurance at M-KOPA Solar",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/customer-operations-officer-insurance-m-kopa-solar",
+      "source": "MyJobMag",
+      "description": "Customer Operations Officer - Insurance at M-KOPA Solar In this role, you would be responsible for: Coordinating insurance issuance \u2014 including sticker generation and DMVIC documentation \u2014 and proactively managing policy renewals and cust 24 October"
+    },
+    {
+      "title": "HR & People Operations Officer at a Reputable Company",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/hr-people-operations-officer",
+      "source": "MyJobMag",
+      "description": "HR & People Operations Officer at a Reputable Company Department: Global Human Resources & People Strategy Reports To: Head of Global Human Resources & People Strategy Location: Kenya Role Level: Operational / Individual Contrib KSh 50,000 - KSh 100,000 24 October"
+    },
+    {
+      "title": "Chief Operations Officer at PKF firms",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/chief-operations-officer-pkf-firms",
+      "source": "MyJobMag",
+      "description": "Chief Operations Officer at PKF firms Job Summary The overall purpose to the job is to provide strategic direction for hospital\u2019s operational delivery whilst upholding the provision of high quality, safe, innovative and cost effe 23 October"
+    },
+    {
+      "title": "Pensions Operations Officer at Britam",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/pensions-operations-officer-britam",
+      "source": "MyJobMag",
+      "description": "Pensions Operations Officer at Britam Job Purpose: Assist in processing and payment of pension claims and benefits. Approval of payments on assignment by the Team Leader. Key Responsibilities: Updating and reconcili 19 October"
+    },
+    {
+      "title": "Logistics Operations Manager at Flexi-Personnel",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/logistics-operations-manager-flexi-personnel",
+      "source": "MyJobMag",
+      "description": "Logistics Operations Manager at Flexi-Personnel JOB PURPOSE: This individual will lead and oversee end-to-end logistics and supply chain operations, ensuring operational efficiency, compliance, and continuous improvement across transportation 19 October"
+    },
+    {
+      "title": "Outsourcing Operations Manager at Recruten",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/outsourcing-operations-manager-recruten",
+      "source": "MyJobMag",
+      "description": "Outsourcing Operations Manager at Recruten We are hiring! NAIROBI KENYA We are an established people and workforce consultancy operating across several African markets, building our team in Kenya. We are recruiting for eleven full time, perman 19 October"
+    },
+    {
+      "title": "Logistics Manager- Lavington at Fastest Cakes Logistics Limited",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/logistics-manager-lavington-fastest-cakes-logistics-limited-1",
+      "source": "MyJobMag",
+      "description": "Logistics Manager- Lavington at Fastest Cakes Logistics Limited Fastest Cakes delivers thousands of excellent cakes to happy customers very fast. 23 October"
+    },
     {
       "title": "Business Development & Sales Manager \u2013 ActivEdge Technologies & PayEdge (Supply Chain Financing)",
       "company": "",
@@ -19,10 +155,10 @@
       "description": ""
     },
     {
-      "title": "Quality Control Manager (Pharma) at MSVL Group",
+      "title": "Customer Operations Officer \u2013 Insurance at M-KOPA Solar",
       "company": "",
       "location": "Kenya",
-      "url": "https://jobwebkenya.com/jobs/quality-control-manager-pharma-msvl-group/",
+      "url": "https://jobwebkenya.com/jobs/customer-operations-officer-insurance-m-kopa-solar/",
       "source": "JobWebKenya",
       "description": ""
     },
