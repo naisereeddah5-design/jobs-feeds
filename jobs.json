@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-30T09:40:16.165315Z",
-  "count": 33,
+  "updated": "2026-10-31T09:20:25.792353Z",
+  "count": 30,
   "jobs": [
+    {
+      "title": "Hotel Operations Manager at Siaya County Club",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/hotel-operations-manager-siaya-county-club-1",
+      "source": "MyJobMag",
+      "description": "Hotel Operations Manager at Siaya County Club At Siaya County Club, we excel in versatile hospitality, meeting diverse needs with our array of services in food, drinks, accommodation, and conferences. Our focus lies in seamlessly blending busines... 30 October"
+    },
+    {
+      "title": "Senior Data Scientist, MNO Data at GiveDirectly",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/senior-data-scientist-mno-data-givedirectly",
+      "source": "MyJobMag",
+      "description": "Senior Data Scientist, MNO Data at GiveDirectly About this role GiveDirectly gives cash directly to people living in poverty and in emergencies. Both depend on the same question: did this person live in this place, at this time? We ask it whe 30 October"
+    },
     {
       "title": "Junior Data Analyst (Internship) at Moko Home + Living",
       "company": "",
@@ -9,22 +25,6 @@
       "url": "https://www.myjobmag.co.ke/job/junior-data-analyst-internship-moko-home-living",
       "source": "MyJobMag",
       "description": "Junior Data Analyst (Internship) at Moko Home + Living What you bring Hands-on experience with data analysis through an internship, academic project, personal portfolio or similar. Solid SQL: joins, aggregations, window functions and CTEs. Worki 27 October"
-    },
-    {
-      "title": "Data Scientist at Co-operative Bank of Kenya",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/data-scientist-co-operative-bank-of-kenya-8",
-      "source": "MyJobMag",
-      "description": "Data Scientist at Co-operative Bank of Kenya The Role Specifically, the successful jobholder will be required to: Collaborate with business and product teams to identify priority business challenges, define analytical approaches and est 27 October"
-    },
-    {
-      "title": "Data Engineer at Co-operative Bank of Kenya",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/data-engineer-co-operative-bank-of-kenya-8",
-      "source": "MyJobMag",
-      "description": "Data Engineer at Co-operative Bank of Kenya The Role Specifically, the successful jobholder will be required to: Design, develop, test and maintain batch, streaming and real-time data pipelines that integrate data from approved source 27 October"
     },
     {
       "title": "Operations Manager at Accurex Leadership and Management Consultants Ltd",
@@ -83,36 +83,20 @@
       "description": "Principal Laboratory Analyst (Research, Innovation & Knowledge Management) - 2 Posts at National Quality Control Laboratory (NQCL) Job Specifications: Duties and responsibilities at this level will entail; Performance verification of columns, class A glassware and methods of analysis; Implementing biosafety and biosecuri 27 October"
     },
     {
+      "title": "Senior Data Scientist, MNO Data",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/senior-data-scientist-mno-data-givedirectly",
+      "source": "MyJobMag",
+      "description": "Senior Data Scientist, MNO Data"
+    },
+    {
       "title": "Quality Controller at Peoplelink Consultants Ltd",
       "company": "",
       "location": "Kenya",
       "url": "https://www.myjobmag.co.ke/job/quality-controller-peoplelink-consultants-ltd-3",
       "source": "MyJobMag",
       "description": "Quality Controller at Peoplelink Consultants Ltd Peoplelink Consultants Ltd is a consultancy services company incorporated under the laws of Kenya. 30 October"
-    },
-    {
-      "title": "Senior Product Manager - Digital Banking",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/senior-product-manager-digital-banking-absa-bank-limited",
-      "source": "MyJobMag",
-      "description": "Senior Product Manager - Digital Banking"
-    },
-    {
-      "title": "Receiving and Quality Control Officer",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/receiving-and-quality-control-officer-bollard-consulting-limited",
-      "source": "MyJobMag",
-      "description": "Receiving and Quality Control OfficerAdmin / Order Fulfilment OfficerDispatch OfficerInventory & Production OfficerHead of Warehouse and LogisticsQuality Control Officer"
-    },
-    {
-      "title": "Quality Control Officer",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/quality-control-officer-bollard-consulting-limited",
-      "source": "MyJobMag",
-      "description": "Quality Control Officer"
     },
     {
       "title": "Business Development & Sales Manager \u2013 ActivEdge Technologies & PayEdge (Supply Chain Financing)",
@@ -131,18 +115,10 @@
       "description": ""
     },
     {
-      "title": "Assistant Product Manager at Hotpoint Appliances Ltd",
+      "title": "Senior Product Manager \u2013 Digital Banking at Absa Bank Limited",
       "company": "",
       "location": "Kenya",
-      "url": "https://jobwebkenya.com/jobs/assistant-product-manager-hotpoint-appliances-ltd/",
-      "source": "JobWebKenya",
-      "description": ""
-    },
-    {
-      "title": "Research Associate (Kenya) at Precision Development (PxD)",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://jobwebkenya.com/jobs/research-associate-kenya-precision-development-pxd/",
+      "url": "https://jobwebkenya.com/jobs/senior-product-manager-digital-banking-absa-bank-limited/",
       "source": "JobWebKenya",
       "description": ""
     },
