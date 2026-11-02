@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-01T10:08:27.938291Z",
-  "count": 27,
+  "updated": "2026-11-02T10:37:23.831719Z",
+  "count": 28,
   "jobs": [
+    {
+      "title": "Evolve GIB Product Owner at Caava Group",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/evolve-gib-product-owner-caava-group",
+      "source": "MyJobMag",
+      "description": "Evolve GIB Product Owner at Caava Group Caava Group is a holding company at the forefront of transforming the African insurance landscape. It brings together multiple complementary businesses under one umbrella Caava Evolve, Caava AI, Agencify, and TurnQuest V4 by Caava modernizing legacy insurer operations, expanding digital distribution through agents, and harnessing AI-driven solutions to strea"
+    },
     {
       "title": "Senior Data Scientist, MNO Data at GiveDirectly",
       "company": "",
@@ -17,6 +25,14 @@
       "url": "https://www.myjobmag.co.ke/job/junior-data-analyst-internship-moko-home-living",
       "source": "MyJobMag",
       "description": "Junior Data Analyst (Internship) at Moko Home + Living What you bring Hands-on experience with data analysis through an internship, academic project, personal portfolio or similar. Solid SQL: joins, aggregations, window functions and CTEs. Worki 27 October"
+    },
+    {
+      "title": "Operations Manager at Amaica",
+      "company": "",
+      "location": "Kenya",
+      "url": "https://www.myjobmag.co.ke/job/operations-manager-amaica",
+      "source": "MyJobMag",
+      "description": "Operations Manager at Amaica Amaica The Restaurant Limited is a leading hospitality brand celebrated for authentic African cultural dining experiences. With multiple locations in Nairobi, we are seeking a dynamic and results-driv 02 November"
     },
     {
       "title": "Hotel Operations Manager at Siaya County Club",
@@ -51,14 +67,6 @@
       "description": "Temp. Brand Operations Manager at Nestle Position Summary With a history spanning over 150 years, Nestl\u00e9 is one of the world's leading food and beverage companies. We are looking for a Brand Operations Manager to join 28 October"
     },
     {
-      "title": "Investment Banking Operations Manager at Summit Human Resource & Marketing Consultant",
-      "company": "",
-      "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/investment-banking-operations-manager-summit-human-resource-amp-marketing-consultant",
-      "source": "MyJobMag",
-      "description": "Investment Banking Operations Manager at Summit Human Resource & Marketing Consultant Salary budget: Gross 200k About the Role We are seeking an Operations Manager to manage and optimise the organisation\\'s day-to-day operations, ensuring efficient service delivery, s KSh 150,000 - KSh 200,000 27 October"
-    },
-    {
       "title": "Research Associate (Kenya) at Precision Development (PxD)",
       "company": "",
       "location": "Kenya",
@@ -75,12 +83,12 @@
       "description": "Principal Laboratory Analyst (Research, Innovation & Knowledge Management) - 2 Posts at National Quality Control Laboratory (NQCL) Job Specifications: Duties and responsibilities at this level will entail; Performance verification of columns, class A glassware and methods of analysis; Implementing biosafety and biosecuri 27 October"
     },
     {
-      "title": "Senior Data Scientist, MNO Data",
+      "title": "Operations Manager",
       "company": "",
       "location": "Kenya",
-      "url": "https://www.myjobmag.co.ke/job/senior-data-scientist-mno-data-givedirectly",
+      "url": "https://www.myjobmag.co.ke/job/operations-manager-amaica",
       "source": "MyJobMag",
-      "description": "Senior Data Scientist, MNO Data"
+      "description": "Operations Manager"
     },
     {
       "title": "Business Development & Sales Manager \u2013 ActivEdge Technologies & PayEdge (Supply Chain Financing)",
